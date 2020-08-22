@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+
+### I'm Nantha Kumar, an aspiring data scientist from India
 
 <!--
 **nanthasnk/nanthasnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
