@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+### Hi there,
 
 ### I'm Nantha Kumar, working as a Project Consultant for EY-India. My areas of interest are Data Science, Machine Learning and AI.
 
@@ -23,6 +23,7 @@
 
 
 <!--
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 **nanthasnk/nanthasnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
