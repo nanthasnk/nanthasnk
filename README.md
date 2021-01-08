@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-### I'm Nantha Kumar, an aspiring data scientist from India
+### I'm Nantha Kumar, working as a Project Consultant for EY-India. My areas of interest are Data Science, Machine Learning and AI.
 
 #### ⚡ Technologies and Tools I'm familiar with
 
