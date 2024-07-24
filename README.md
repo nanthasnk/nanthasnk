@@ -1,6 +1,6 @@
 ### Hi there,
 
-### I'm Nantha Kumar, working as a Senior Data Analyst for HSBC India. My areas of interest are Data Science, Machine Learning and AI.
+### I'm Nantha Kumar, working as a Data Scientist for SCB India. My areas of interest are Data Science, Machine Learning and AI.
 
 #### ⚡ Technologies and Tools I'm familiar with
 
